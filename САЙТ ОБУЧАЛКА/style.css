@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:200,200italic,300,300italic,regular,italic,600,600italic,700,700italic,900);
+*{
+    margin: 0;
+    padding: 0;
+    height: 400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: #242422;
+}
+
+.container{
+    width: 800px;
+    border-radius: 20px 20px 0 0;
+    background-image: url(https://sociologiac.net/sociology/wp-content/uploads/2008/08/alternatives-microsoft-word-free.jpg);
+    background-size: 800px;
+    margin: 20px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
+}
+.container2{
+    width: 800px;
+    border-radius: 0 0 20px 20px;
+    background-color: #F4F4EE;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
+    position: relative;
+}
+a{
+    width: 400px;
+    height: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    left: 200px;
+    top: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(0, 84, 156);
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    text-decoration: none;
+}
+.a1{
+    position: absolute;
+    left: 200px;
+    top: 80px;
+}
+p{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 60px;
+}
